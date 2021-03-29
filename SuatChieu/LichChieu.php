@@ -9,6 +9,7 @@
 	include ($level.content_parth."Phim3.php");
 	include ($level.content_parth."Phim4.php");
 	
+	include (content_parth."gioiThieuCongTiVaDoiTac.php");
 ?>
 
     
