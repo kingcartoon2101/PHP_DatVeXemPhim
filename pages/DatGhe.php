@@ -1,16 +1,11 @@
+	
 <?php
-    $level="";
-    $IsIndex = true ;
-    $IsDatGhe =false;
+    $level="../";
+    $IsIndex = false;
+    $IsDatGhe =true;
     $IsLichChieu =false;
     $IsthanhToan =false;
     include ($level."layout.php");
 ?>
 
-    
-    
-
-    
-
-    
     
