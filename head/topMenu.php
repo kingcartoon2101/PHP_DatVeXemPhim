@@ -13,7 +13,7 @@
 
         <!-- logo -->
         <a class="navbar-brand mr-auto" href="/">
-            <img src="Hinh/Hinh2.jpg" alt="Moveek" class="navbar-brand-img" width ="100px" height= "300px">
+            <img style="width:40px;" src="<?php echo $level.img_path ?>logoVN.png" alt="Moveek" class="navbar-brand-img" width ="100px" height= "300px">
         </a>
 
         <form action="/tim-kiem/" method="GET" class="form-inline mr-4 d-none d-lg-flex">
