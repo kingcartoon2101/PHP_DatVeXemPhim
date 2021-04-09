@@ -9,7 +9,7 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <a href="#"><img class="d-block w-100" src="<?php echo $level.img_path."GK.jpg";?>" style="width: 100%;"alt=""></a>
+                            <a href="#"><img class="d-block w-100" src="<?php echo $level.img_path."GK.jpg";?>" style="width: 100%;"alt=""></a>        
                         </div>
                         <div class="carousel-item">
                             <a href="#"><img class="d-block w-100" src="<?php echo $level.img_path."poster-bo-gia.jpg";?>" style="width: 100%;" alt=""></a>
