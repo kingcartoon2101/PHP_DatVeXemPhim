@@ -1,0 +1,186 @@
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\DashBoar.exe.config
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\DashBoar.exe
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\DashBoar.pdb
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\en\DashBoar.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\BUS.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\DTO.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\EntityFramework.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\EntityFramework.SqlServer.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\DAO.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\EnvDTE.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\stdole.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.MSXML.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\BUS.pdb
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\DTO.pdb
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\EntityFramework.xml
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\EntityFramework.SqlServer.xml
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\DAO.pdb
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\DAO.dll.config
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.csproj.AssemblyReference.cache
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.frmDashboar.resources
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.frmChiTietHoaDon.resources
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.FrmDangKiTaiKhoan.resources
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.FrmDoiMatKhau.resources
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.frmHoaDon.resources
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.frmThongTinNhanVien.resources
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.frmlogin.resources
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.frmBaoCao.resources
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.frmXemBaoCao.resources
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.Properties.Resources.resources
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.QLNhanVien.resources
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.QL_SanPham.resources
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.FrmDoiMatKhau.en.resources
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.csproj.GenerateResource.cache
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.csproj.CoreCompileInputs.cache
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\en\DashBoar.resources.dll
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.csproj.CopyComplete
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.exe
+D:\đồ én\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.pdb
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\EntityFramework.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\DashBoar.exe.config
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\DashBoar.exe
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\DashBoar.pdb
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\en\DashBoar.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\BUS.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\DTO.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\DAO.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\EnvDTE.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\stdole.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\BUS.pdb
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\DTO.pdb
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\EntityFramework.xml
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\DAO.pdb
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\DAO.dll.config
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.csproj.AssemblyReference.cache
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.frmDashboar.resources
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.frmChiTietHoaDon.resources
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.FrmDangKiTaiKhoan.resources
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.FrmDoiMatKhau.resources
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.frmHoaDon.resources
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.frmThongTinNhanVien.resources
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.frmlogin.resources
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.frmBaoCao.resources
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.frmXemBaoCao.resources
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.Properties.Resources.resources
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.QLNhanVien.resources
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.QL_SanPham.resources
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.FrmDoiMatKhau.en.resources
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.csproj.GenerateResource.cache
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\en\DashBoar.resources.dll
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.csproj.CopyComplete
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.exe
+C:\Users\Thanh Duy\OneDrive\Máy tính\WinformC--RauMaDetox\UI\code\Login_RauMa\DashBoar\obj\Debug\DashBoar.pdb
